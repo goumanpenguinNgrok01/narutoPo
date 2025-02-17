@@ -1,0 +1,18 @@
+{
+  "itachi2": {
+    "armor": 100.0,
+    "jutsu-2-cooldown": 60.0,
+    "max-health": 7000.0,
+    "jutsu-1-cooldown": 5.0,
+    "hand-damage": 40.0,
+    "movement-speed": 0.5
+  },
+  "shisui": {
+    "armor": 100.0,
+    "jutsu-2-cooldown": 60.0,
+    "max-health": 7000.0,
+    "jutsu-1-cooldown": 5.0,
+    "hand-damage": 40.0,
+    "movement-speed": 0.5
+  }
+}

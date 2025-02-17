@@ -1,0 +1,26 @@
+{
+  "tsukuyomi": {
+    "duration": 10,
+    "damage": 10,
+    "chakra-cost": "10%",
+    "cooldown": 10
+  },
+  "kotoamatsukami": {
+    "duration": 10,
+    "damage": 10,
+    "chakra-cost": "10%",
+    "cooldown": 10
+  },
+  "genjutsu": {
+    "duration": 10,
+    "damage": 10,
+    "chakra-cost": "10%",
+    "cooldown": 10
+  },
+  "tsukuyomi_buff": {
+    "duration": 10,
+    "damage": 10,
+    "chakra-cost": "10%",
+    "cooldown": 10
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "genjutsu": {
+    "duration": 10.0,
+    "damage": 10.0,
+    "chakra-cost": "10%",
+    "cooldown": 10.0
+  },
+  "amenotejikara": {
+    "duration": 10.0,
+    "damage": 10.0,
+    "chakra-cost": "10%",
+    "cooldown": 10.0
+  },
+  "amenotejikara_buff": {
+    "duration": 10,
+    "damage": 10,
+    "chakra-cost": "10%",
+    "cooldown": 10
+  }
+}
